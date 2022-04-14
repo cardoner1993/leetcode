@@ -1,2 +1,2 @@
 # leetcode_scala
-Scala solutions for leetcode
+Scala solutions for leetcode problems
