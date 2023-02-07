@@ -1,4 +1,3 @@
-# leetcode_scala
-Scala solutions for leetcode problems.
-
-Uploading direct solution for all leetcode problems.
+# leetcode
+Solutions for leetcode problems.
+Backlog of different implementations for leetcode problems.
